@@ -1,0 +1,62 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_6D13C2D4_7CD9_33C0_41DE_855D26FDF1D8.source = https://hub.salford.ac.uk/fictionalities/tag/fictionalities/
+PopupWebFrameBehaviour_6D9E4E66_7D62_CE23_4170_1E3C362B2C32.url = https://mulberry-bright-yacht.glitch.me
+LinkBehaviour_6E6F0B00_7CD9_123F_41DE_4F4FDB3A13B8.source = https://www.salford.ac.uk/
+LinkBehaviour_6D132B9B_7CD9_F241_41DE_AD027E5EADD6.source = https://www.withlove.studio/
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_73BF9825_7C3F_3E41_41DE_2B1DBE808FB4.text = Go to the temple (EXT)
+HotspotPanoramaOverlayTextImage_6C398075_7C39_0EC1_41DC_5954898D642F.text = Go to the temple (INT)
+
+### Tooltip
+HotspotPanoramaOverlayArea_6EDFE8D9_7CDB_1FC1_41D8_6EAEB163ACE1.toolTip = Fictionalities (NEW TAB)
+HotspotPanoramaOverlayArea_6D147C1E_7D62_51E3_41BE_E7FCF0C29422.toolTip = Here a WebFrame
+HotspotPanoramaOverlayArea_6DAE1A30_7CD9_F25F_41C1_59BD746BC59A.toolTip = Salford WEB in a NEW TAB
+HotspotPanoramaOverlayArea_6EEDCEDA_7CD9_13C3_41C0_91CDABFC6667.toolTip = With Love Studio  SAME TAB (OUT)
+
+## Media
+
+### 360 Video
+
+### Image
+imlevel_716989F7_7DA6_39F1_41DB_F8B407AC3B37.url = media/media_709FD7ED_7DA2_4A10_41D1_8599D48DDAB2_HS_6k18f926_en.png
+imlevel_712469AE_7DA5_C610_41D9_D2EB5F49A526.url = media/media_709FD7ED_7DA2_4A10_41D1_8599D48DDAB2_HS_g2z1y91i_en.png
+
+### Title
+media_71385BB9_7DA2_3A71_41C2_B5F690AE827B.label = ayutthaya_-_easy_tripod_paint___360_vr_master_series___free_download (2160p)
+media_709FD7ED_7DA2_4A10_41D1_8599D48DDAB2.label = ayutthaya_-_needs_stabilization_and_horizon_correction___360_vr_master_series___free_download (2160p)
+media_71D64CCB_7DA2_FE10_41CD_D7D92A6AFDC1.label = doi_suthep_-_hard_tripod_paint___360_vr_master_series___free_download (2160p)
+
+### Video
+videores_71703A95_7DA6_3A30_41C8_128FFA4F491D.url = media/media_709FD7ED_7DA2_4A10_41D1_8599D48DDAB2_en.mp4
+videores_70CFC1D7_7DA6_C631_41D9_3BB7478984E4.url = media/media_709FD7ED_7DA2_4A10_41D1_8599D48DDAB2_en_1.mp4
+videores_70CFC1D7_7DA6_C631_41D9_3BB7478984E4.posterURL = media/media_709FD7ED_7DA2_4A10_41D1_8599D48DDAB2_poster_en.jpg
+videores_71703A95_7DA6_3A30_41C8_128FFA4F491D.posterURL = media/media_709FD7ED_7DA2_4A10_41D1_8599D48DDAB2_poster_en.jpg
+videores_703C4EDA_7DA6_5A33_41D5_55B062CBA843.url = media/media_71385BB9_7DA2_3A71_41C2_B5F690AE827B_en.mp4
+videores_700E8FCA_7DA6_7A10_41D7_2B697A45FA55.url = media/media_71385BB9_7DA2_3A71_41C2_B5F690AE827B_en_1.mp4
+videores_703C4EDA_7DA6_5A33_41D5_55B062CBA843.posterURL = media/media_71385BB9_7DA2_3A71_41C2_B5F690AE827B_poster_en.jpg
+videores_700E8FCA_7DA6_7A10_41D7_2B697A45FA55.posterURL = media/media_71385BB9_7DA2_3A71_41C2_B5F690AE827B_poster_en.jpg
+videores_706802DF_7DA6_4A31_41D2_DBB3E5E31C10.url = media/media_71D64CCB_7DA2_FE10_41CD_D7D92A6AFDC1_en.mp4
+videores_70C3F6F2_7DA7_CBF3_41C6_743190072F4C.url = media/media_71D64CCB_7DA2_FE10_41CD_D7D92A6AFDC1_en_1.mp4
+videores_706802DF_7DA6_4A31_41D2_DBB3E5E31C10.posterURL = media/media_71D64CCB_7DA2_FE10_41CD_D7D92A6AFDC1_poster_en.jpg
+videores_70C3F6F2_7DA7_CBF3_41C6_743190072F4C.posterURL = media/media_71D64CCB_7DA2_FE10_41CD_D7D92A6AFDC1_poster_en.jpg
+
+### Video Subtitles
+
+## Popup
+
+### Title
+window_6D87FE64_7D62_CE20_41DF_42C745C02055.title = Test-HEADER
+
+## Tour
+
+### Description
+
+### Title
+tour.name = PlaceFeelSimple_test01
