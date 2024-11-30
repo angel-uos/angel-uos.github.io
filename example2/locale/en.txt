@@ -1,0 +1,48 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_5E1A1559_7EFA_61BE_4163_ABE51BA6E642.source = https://www.withlove.studio/
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_57F94D5C_7EE6_61B6_41D5_BCFEEB74C0FF.text = Exit
+
+### Tooltip
+HotspotPanoramaOverlayArea_5E887CAE_7EFE_2092_41C4_F4F0DA159263.toolTip = withlove.studio
+
+## Media
+
+### Image
+imlevel_5200EF77_7F1A_2072_41D3_7BD16238A0EC.url = media/panorama_676ED45F_7EEA_27B2_41D1_747E4EEAFC8C_HS_fp7f0and_en.png
+imlevel_52028FB1_7F1A_208E_41B1_35A323EB8E57.url = media/popup_544537E7_7F1E_6092_41CB_7B648EBF92DE_en_0_0.jpg
+imlevel_53F99F6D_7F1A_2196_41C2_0F638336A1DB.url = media/popup_590E331B_7EEA_61B2_41AB_34A51876C74E_en_0_0.jpg
+imlevel_53F9BF6D_7F1A_2196_41C3_7BFD6C15F30B.url = media/popup_590E331B_7EEA_61B2_41AB_34A51876C74E_en_0_1.jpg
+
+### Popup Image
+
+### Title
+video_58DBD978_7EEE_E07E_41D9_068557764402.label = Inside ESO Headquarters
+photo_5C1B7277_7EE6_6072_41D2_722942AC7D1E.label = auerweber_esoheadquarterserweiterung_garching_rh2253-0016_arolandhalbe
+panorama_6FEB6D08_7EE6_219E_41AD_348C41D1BE40.label = hqe-pano1
+panorama_676ED45F_7EEA_27B2_41D1_747E4EEAFC8C.label = mmb-coatn-tank-pano2
+
+### Video
+videolevel_4D3A2E76_7F2A_6072_41BD_5D4A6AC47A5B.url = media/video_58DBD978_7EEE_E07E_41D9_068557764402_en.mp4
+videolevel_4D3A2E76_7F2A_6072_41BD_5D4A6AC47A5B.posterURL = media/video_58DBD978_7EEE_E07E_41D9_068557764402_poster_en.jpg
+
+### Video Subtitles
+
+## Popup
+
+### Body
+htmlText_5CF5CED1_7EE6_208E_41D2_5BA5C2A572AC.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sed est ut nisi varius volutpat. Quisque vehicula vitae purus ut convallis. Morbi sit amet feugiat sapien. Aenean vel velit vel ex bibendum volutpat. Proin vestibulum ante turpis, in lobortis enim vehicula et. Sed ultrices ornare lectus quis dictum. Sed ut interdum nisi.</SPAN></DIV></BODY></HTML></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 1
