@@ -24,14 +24,14 @@ imlevel_53F9BF6D_7F1A_2196_41C3_7BFD6C15F30B.url = media/popup_590E331B_7EEA_61B
 ### Popup Image
 
 ### Title
-video_58DBD978_7EEE_E07E_41D9_068557764402.label = Inside ESO Headquarters
+video_4C2D54C3_7F26_2092_41D5_35ED33A1ACF6.label = Inside ESO Headquarters
 photo_5C1B7277_7EE6_6072_41D2_722942AC7D1E.label = auerweber_esoheadquarterserweiterung_garching_rh2253-0016_arolandhalbe
 panorama_6FEB6D08_7EE6_219E_41AD_348C41D1BE40.label = hqe-pano1
 panorama_676ED45F_7EEA_27B2_41D1_747E4EEAFC8C.label = mmb-coatn-tank-pano2
 
 ### Video
-videolevel_4D3A2E76_7F2A_6072_41BD_5D4A6AC47A5B.url = media/video_58DBD978_7EEE_E07E_41D9_068557764402_en.mp4
-videolevel_4D3A2E76_7F2A_6072_41BD_5D4A6AC47A5B.posterURL = media/video_58DBD978_7EEE_E07E_41D9_068557764402_poster_en.jpg
+videolevel_49D01EB8_7F26_20FE_41DE_DC29E300638B.url = media/video_4C2D54C3_7F26_2092_41D5_35ED33A1ACF6_en.mp4
+videolevel_49D01EB8_7F26_20FE_41DE_DC29E300638B.posterURL = media/video_4C2D54C3_7F26_2092_41D5_35ED33A1ACF6_poster_en.jpg
 
 ### Video Subtitles
 
