@@ -4,6 +4,7 @@
 
 ### URL
 LinkBehaviour_5E1A1559_7EFA_61BE_4163_ABE51BA6E642.source = https://www.withlove.studio/
+PopupWebFrameBehaviour_62092901_7F24_A49F_41DC_8C454013A9A1.url = //www.youtube.com/embed/E0Pglpm41x4?si=mIjX1lLsbSMyXwUx
 
 ## Hotspot
 
@@ -30,8 +31,8 @@ panorama_6FEB6D08_7EE6_219E_41AD_348C41D1BE40.label = hqe-pano1
 panorama_676ED45F_7EEA_27B2_41D1_747E4EEAFC8C.label = mmb-coatn-tank-pano2
 
 ### Video
-videolevel_49D01EB8_7F26_20FE_41DE_DC29E300638B.url = media/video_4C2D54C3_7F26_2092_41D5_35ED33A1ACF6_en.mp4
-videolevel_49D01EB8_7F26_20FE_41DE_DC29E300638B.posterURL = media/video_4C2D54C3_7F26_2092_41D5_35ED33A1ACF6_poster_en.jpg
+videolevel_64B2F10C_7F35_FE2C_41D2_CEA646261E30.url = media/video_4C2D54C3_7F26_2092_41D5_35ED33A1ACF6_en.mp4
+videolevel_64B2F10C_7F35_FE2C_41D2_CEA646261E30.posterURL = media/video_4C2D54C3_7F26_2092_41D5_35ED33A1ACF6_poster_en.jpg
 
 ### Video Subtitles
 
