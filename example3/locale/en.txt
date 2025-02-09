@@ -1,0 +1,13 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_BBB1587E_EB6F_AD1C_41C3_A78C1148A4E7.label = CSI_Room_07
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 3
