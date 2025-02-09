@@ -2,12 +2,31 @@
 
 ## Media
 
+### Image
+imlevel_D25C36C0_EC1A_1466_41B7_535292DDDC80.url = media/popup_D217E4F9_EC1A_3426_41CB_F2C96CF55708_en_0_0.webp
+imlevel_D25C76C0_EC1A_1466_41C1_574CC92E9BA6.url = media/popup_D217E4F9_EC1A_3426_41CB_F2C96CF55708_en_0_1.webp
+
+### Popup Image
+
 ### Title
-panorama_BBB1587E_EB6F_AD1C_41C3_A78C1148A4E7.label = CSI_Room_07
+panorama_D673274E_EBA0_E37C_41D6_D3449223941F.label = CSI_Room_09
+
+## Popup
+
+### Body
+htmlText_D6CEBC03_EC1E_1BEA_41C9_491DD9B7A485.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">bla bla bal</SPAN></DIV></BODY></HTML></div>
+
+### Title
+window_D6CD7C03_EC1E_1BEA_41D0_9CF3CB83E7D3.title = blablabla
+
+## Skin
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
 
 ## Tour
 
 ### Description
 
 ### Title
-tour.name = Untitled 3
+tour.name = Untitled 2
