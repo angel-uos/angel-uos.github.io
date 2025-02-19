@@ -1,0 +1,55 @@
+#: locale=en
+
+## Media
+
+### Audio
+audiores_46E4F337_1F7E_E8AE_4199_2FC99DD69674.mp3Url = media/audio_473EB91D_1F7D_5862_41B7_8503795554C6_en.mp3
+
+### Audio Subtitles
+
+### Image
+imlevel_7F975E7A_1FD3_D8A6_4177_8A0862C75450.url = media/popup_7CF41AE2_1F35_59A6_41A7_98AD59DBCBE7_en_0_0.webp
+imlevel_7F909E7A_1FD3_D8A6_41B5_5FDE315A8E43.url = media/popup_7CF41AE2_1F35_59A6_41A7_98AD59DBCBE7_en_0_1.webp
+imlevel_7F901E95_1FD3_D862_41AC_7418FD5EADFF.url = media/popup_7D6A7E8F_1F35_587E_41BE_DD58D63091FE_en_0_0.webp
+imlevel_7F971E95_1FD3_D862_4182_2EAAAF456CE4.url = media/popup_7D6A7E8F_1F35_587E_41BE_DD58D63091FE_en_0_1.webp
+imlevel_7F93DEE7_1FD3_D9AE_41B1_20673D423C5F.url = media/popup_7E3A1493_1F32_A866_41B9_96133EFCD4A3_en_0_0.webp
+imlevel_7F935EE7_1FD3_D9AE_41B7_B8435A7E93CB.url = media/popup_7E3A1493_1F32_A866_41B9_96133EFCD4A3_en_0_1.webp
+imlevel_7F901E5F_1FD3_D89E_4178_D9329D9CC4AE.url = media/popup_7E7059D9_1F37_5BE2_419A_BED5926E85E2_en_0_0.webp
+imlevel_7F96DE5F_1FD3_D89E_41B0_4B4A2E647B01.url = media/popup_7E7059D9_1F37_5BE2_419A_BED5926E85E2_en_0_1.webp
+imlevel_7F91DEB0_1FD3_D9A2_41B7_EF4ECE3FA118.url = media/popup_7EA59D5E_1F35_589E_41B9_8B2D27A24B05_en_0_0.webp
+imlevel_7F911EB0_1FD3_D9A2_41B8_45945BB6EF7A.url = media/popup_7EA59D5E_1F35_589E_41B9_8B2D27A24B05_en_0_1.webp
+imlevel_7F929ECB_1FD3_D9E6_41A7_9C0259D00040.url = media/popup_7EDCD879_1F32_D8A2_41A5_4247E3F96F29_en_0_0.webp
+imlevel_7F919ECB_1FD3_D9E6_41BB_40FCB315AEB5.url = media/popup_7EDCD879_1F32_D8A2_41A5_4247E3F96F29_en_0_1.webp
+
+### Popup Image
+
+### Title
+photo_7F5E45AE_1F4E_ABBE_41B2_6BFE0277FE5C.label = AJA Photo - small
+video_7F7AC4F6_1ED5_A9AE_419B_7F01AACD20E1.label = Animation_CSI_Logo_red_background
+panorama_55E096E2_1F32_A9A6_416E_74E011C6B126.label = CSI_Main_01-tripodremoved
+video_40517EEE_1F55_59BE_4192_260EB74220A6.label = IntroVideo_no_background-2
+
+### Video
+videolevel_7C688C6B_1ED2_B8A6_41B8_D8CFACC4DD4D.url = media/video_40517EEE_1F55_59BE_4192_260EB74220A6_en.mp4
+videolevel_7C688C6B_1ED2_B8A6_41B8_D8CFACC4DD4D.posterURL = media/video_40517EEE_1F55_59BE_4192_260EB74220A6_poster_en.jpg
+videolevel_7C144C81_1ED2_B862_4199_5FA344F3174C.url = media/video_7F7AC4F6_1ED5_A9AE_419B_7F01AACD20E1_en.mp4
+videolevel_7C144C81_1ED2_B862_4199_5FA344F3174C.posterURL = media/video_7F7AC4F6_1ED5_A9AE_419B_7F01AACD20E1_poster_en.jpg
+
+### Video Subtitles
+
+## Popup
+
+### Body
+htmlText_454E7D94_1F5D_5862_41B7_5051DC674801.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Accelerate innovation and stay ahead of the competition by adopting cutting-edge digital technologies in your organisation. <B>Digital transformation</B> can enhance efficiency, reduce costs, improve customer experience, and drive data-driven decision-making, giving your business a strategic advantage in an increasingly digital world.</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"> </SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">We can help you identify the right technologies for your business needs, develop bespoke digital solutions to streamline operations, and guide you through testing, training, and implementation. Our expertise also ensures enhanced cybersecurity and regulatory compliance, improved collaboration and agility through digital tools, and the ability to implement AI and automation for smarter workflows.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Work with Dr. Angel Jimenez-Aranda, Associate Professor for Digital Transformation, to integrate transformational digital technologies into your organisation and unlock new growth opportunities.</SPAN></DIV></BODY></HTML></div>
+htmlText_700C0E71_1F4D_B8A2_41A8_762233736E75.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Accelerate innovation and stay ahead of the competition by adopting cutting-edge digital technologies in your organisation. Digital transformation can enhance efficiency, reduce costs, improve customer experience, and drive data-driven decision-making, giving your business a strategic advantage in an increasingly digital world.</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"> </SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">We can help you identify the right technologies for your business needs, develop bespoke digital solutions to streamline operations, and guide you through testing, training, and implementation. Our expertise also ensures enhanced cybersecurity and regulatory compliance, improved collaboration and agility through digital tools, and the ability to implement AI and automation for smarter workflows.</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"> </SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Work with Dr. Angel Jimenez-Aranda, Associate Professor for Digital Transformation, to integrate transformational digital technologies into your organisation and unlock new growth opportunities.</SPAN></DIV></BODY></HTML></div>
+
+### Title
+window_454F3D94_1F5D_5862_41BB_551652C6AA01.title = DIGITAL TRANSFORMATION
+window_700F4E71_1F4D_B8A2_4198_7482BF234E5B.title = DIGITAL TRANSFORMATION
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 2
