@@ -1,5 +1,17 @@
 #: locale=en
 
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_61A5DE10_2465_571B_4199_9140956B152E.text = Credits: \
+ \
+ Dr Angel Jimenez-Aranda \
+ \
+ Dr Manuel Hernandez-Perez \
+ \
+ \
+Charlie Loughran
+
 ## Media
 
 ### Audio
@@ -8,48 +20,80 @@ audiores_46E4F337_1F7E_E8AE_4199_2FC99DD69674.mp3Url = media/audio_473EB91D_1F7D
 ### Audio Subtitles
 
 ### Image
-imlevel_7F975E7A_1FD3_D8A6_4177_8A0862C75450.url = media/popup_7CF41AE2_1F35_59A6_41A7_98AD59DBCBE7_en_0_0.webp
-imlevel_7F909E7A_1FD3_D8A6_41B5_5FDE315A8E43.url = media/popup_7CF41AE2_1F35_59A6_41A7_98AD59DBCBE7_en_0_1.webp
-imlevel_7F901E95_1FD3_D862_41AC_7418FD5EADFF.url = media/popup_7D6A7E8F_1F35_587E_41BE_DD58D63091FE_en_0_0.webp
-imlevel_7F971E95_1FD3_D862_4182_2EAAAF456CE4.url = media/popup_7D6A7E8F_1F35_587E_41BE_DD58D63091FE_en_0_1.webp
-imlevel_7F93DEE7_1FD3_D9AE_41B1_20673D423C5F.url = media/popup_7E3A1493_1F32_A866_41B9_96133EFCD4A3_en_0_0.webp
-imlevel_7F935EE7_1FD3_D9AE_41B7_B8435A7E93CB.url = media/popup_7E3A1493_1F32_A866_41B9_96133EFCD4A3_en_0_1.webp
-imlevel_7F901E5F_1FD3_D89E_4178_D9329D9CC4AE.url = media/popup_7E7059D9_1F37_5BE2_419A_BED5926E85E2_en_0_0.webp
-imlevel_7F96DE5F_1FD3_D89E_41B0_4B4A2E647B01.url = media/popup_7E7059D9_1F37_5BE2_419A_BED5926E85E2_en_0_1.webp
-imlevel_7F91DEB0_1FD3_D9A2_41B7_EF4ECE3FA118.url = media/popup_7EA59D5E_1F35_589E_41B9_8B2D27A24B05_en_0_0.webp
-imlevel_7F911EB0_1FD3_D9A2_41B8_45945BB6EF7A.url = media/popup_7EA59D5E_1F35_589E_41B9_8B2D27A24B05_en_0_1.webp
-imlevel_7F929ECB_1FD3_D9E6_41A7_9C0259D00040.url = media/popup_7EDCD879_1F32_D8A2_41A5_4247E3F96F29_en_0_0.webp
-imlevel_7F919ECB_1FD3_D9E6_41BB_40FCB315AEB5.url = media/popup_7EDCD879_1F32_D8A2_41A5_4247E3F96F29_en_0_1.webp
+imlevel_63F06A18_2465_FF0B_419F_256D99249A20.url = media/panorama_55E096E2_1F32_A9A6_416E_74E011C6B126_HS_m3zt203r_en.webp
+imlevel_0B92EFB5_2500_E250_41BC_5EB097697CD7.url = media/popup_181F8D1A_2463_350F_41B2_3CD00A15C8B0_en_0_0.webp
+imlevel_0B932FB5_2500_E250_41A7_581594C25466.url = media/popup_181F8D1A_2463_350F_41B2_3CD00A15C8B0_en_0_1.webp
+imlevel_0B9C301A_2500_FE50_41BC_3BE0844E885D.url = media/popup_19DAD3BB_2463_2D0D_41A2_B6B305BB961D_en_0_0.webp
+imlevel_0B9CB01A_2500_FE50_41C0_28F55510FE6B.url = media/popup_19DAD3BB_2463_2D0D_41A2_B6B305BB961D_en_0_1.webp
+imlevel_0B962FD7_2500_E1D0_41B4_2B28572CE336.url = media/popup_1E126FF7_2465_F505_41B7_7EC28A14BFF5_en_0_0.webp
+imlevel_0B96AFD8_2500_E1D0_41B0_C8C151BA5C93.url = media/popup_1E126FF7_2465_F505_41B7_7EC28A14BFF5_en_0_1.webp
+imlevel_0B942FD2_2500_E1D0_4189_9D7BF29C0CFB.url = media/popup_1E8C81A6_2463_2D07_41A4_9E84220AD835_en_0_0.webp
+imlevel_0B93EFD2_2500_E1D0_41B2_E84D44A51ABE.url = media/popup_1E8C81A6_2463_2D07_41A4_9E84220AD835_en_0_1.webp
+imlevel_0B912FAF_2500_E270_41B4_A2E134F4339B.url = media/popup_1EF08A60_2463_3F3B_4199_7E5CFF6E0A7E_en_0_0.webp
+imlevel_0B91AFAF_2500_E270_41AF_86060EDC004E.url = media/popup_1EF08A60_2463_3F3B_4199_7E5CFF6E0A7E_en_0_1.webp
+imlevel_0B9A3016_2500_FE50_417B_2293FC6428F4.url = media/popup_1F42BAB5_2464_DF05_4183_5CE55261DB84_en_0_0.webp
+imlevel_0B99F016_2500_FE50_41C1_80B9E0090185.url = media/popup_1F42BAB5_2464_DF05_4183_5CE55261DB84_en_0_1.webp
+imlevel_0BAF3168_2500_FEF0_41C0_ED186FA77CF1.url = media/popup_624E82EB_2463_2F0D_41AA_472F141D5091_en_0_0.webp
+imlevel_0BAFB168_2500_FEF0_41B1_0AD9C1C6BDE2.url = media/popup_624E82EB_2463_2F0D_41AA_472F141D5091_en_0_1.webp
+imlevel_0B8E2F9E_2500_E250_41BF_542A0C3F528D.url = media/popup_645E0F5A_246D_350F_41A4_BA2E53CBA94A_en_0_0.webp
+imlevel_0B8EAF9E_2500_E250_41B4_52637B4D1F6F.url = media/popup_645E0F5A_246D_350F_41A4_BA2E53CBA94A_en_0_1.webp
+imlevel_0B67AD21_2500_E670_418B_315210A0C5E9.url = media/popup_7CF41AE2_1F35_59A6_41A7_98AD59DBCBE7_en_0_0.webp
+imlevel_0B682D21_2500_E670_4196_1C379321874D.url = media/popup_7CF41AE2_1F35_59A6_41A7_98AD59DBCBE7_en_0_1.webp
+imlevel_0B696D3C_2500_E650_41C0_02091FD95D8A.url = media/popup_7D6A7E8F_1F35_587E_41BE_DD58D63091FE_en_0_0.webp
+imlevel_0B69ED3C_2500_E650_41BD_744FEF090155.url = media/popup_7D6A7E8F_1F35_587E_41BE_DD58D63091FE_en_0_1.webp
+imlevel_0B6AED4D_2500_E630_4192_F3F62011A8A1.url = media/popup_7E3A1493_1F32_A866_41B9_96133EFCD4A3_en_0_0.webp
+imlevel_0B6A2D4D_2500_E630_41BF_A4D5A66F476D.url = media/popup_7E3A1493_1F32_A866_41B9_96133EFCD4A3_en_0_1.webp
+imlevel_1AA3CF4A_2500_2230_419F_8180C515345D.url = media/popup_7E7059D9_1F37_5BE2_419A_BED5926E85E2_en_0_0.webp
+imlevel_1AA30F4A_2500_2230_41AF_D80EE6BDAC35.url = media/popup_7E7059D9_1F37_5BE2_419A_BED5926E85E2_en_0_1.webp
 
 ### Popup Image
 
 ### Title
-photo_7F5E45AE_1F4E_ABBE_41B2_6BFE0277FE5C.label = AJA Photo - small
 video_7F7AC4F6_1ED5_A9AE_419B_7F01AACD20E1.label = Animation_CSI_Logo_red_background
 panorama_55E096E2_1F32_A9A6_416E_74E011C6B126.label = CSI_Main_01-tripodremoved
-video_40517EEE_1F55_59BE_4192_260EB74220A6.label = IntroVideo_no_background-2
+video_44BC5E44_2177_D8E2_41AA_4962CBF20E68.label = IntroVideo_no_background-3
+video_193268BD_2503_EE53_41B4_9EA5398E3094.label = WebShowUp-3
+video_16DD2965_2465_FD05_41B5_9E0D65E044E2.label = out_ANGEL_thumbnail
+video_66FE053E_2465_3507_41B6_9744B4ED86EE.label = out_ANN_thumbnail 2
+video_1A8C3601_2500_6230_41B0_BD535D24F23F.label = out_Francine_VIDEO
+video_0BEB00FA_2463_2B0F_41BD_0479EBC956B9.label = out_Francine_thumbnail v2 no logo
+video_1D54D7FD_2464_D505_419F_7B6DD748B179.label = out_Mandy_VIDEO
+video_0BFEFF55_2463_D505_41B4_46C1218A0402.label = out_Mandy_thumbnail v2 no logo
+video_16DD6AE6_2465_FF07_41B0_0491FF3D2018.label = out_SYLVIA_thumbnail 2
+video_1AC19470_2465_2B1B_41B0_B20D2BC77F6E.label = out_Sara_VIDEO
+video_1616FCDA_2463_DB0F_41B3_21205C87F418.label = out_Sara_thumbnail v2 no logo
 
 ### Video
-videolevel_7509D375_1EF3_A8AD_41B4_3800B926E310.url = media/video_40517EEE_1F55_59BE_4192_260EB74220A6_en.mp4
-videolevel_7509D375_1EF3_A8AD_41B4_3800B926E310.posterURL = media/video_40517EEE_1F55_59BE_4192_260EB74220A6_poster_en.jpg
-videolevel_750DD38D_1EF3_A862_418C_2A33B6AC6138.url = media/video_7F7AC4F6_1ED5_A9AE_419B_7F01AACD20E1_en.mp4
-videolevel_750DD38D_1EF3_A862_418C_2A33B6AC6138.posterURL = media/video_7F7AC4F6_1ED5_A9AE_419B_7F01AACD20E1_poster_en.jpg
+videolevel_61007927_2500_6E70_4194_B081D3709445.url = media/video_0BEB00FA_2463_2B0F_41BD_0479EBC956B9_en.mp4
+videolevel_61007927_2500_6E70_4194_B081D3709445.posterURL = media/video_0BEB00FA_2463_2B0F_41BD_0479EBC956B9_poster_en.jpg
+videolevel_610CF910_2500_6E50_41A6_EB21F813F1E9.url = media/video_0BFEFF55_2463_D505_41B4_46C1218A0402_en.mp4
+videolevel_610CF910_2500_6E50_41A6_EB21F813F1E9.posterURL = media/video_0BFEFF55_2463_D505_41B4_46C1218A0402_poster_en.jpg
+videolevel_610F38FD_2500_6FD0_41AB_DF440ED4B92F.url = media/video_1616FCDA_2463_DB0F_41B3_21205C87F418_en.mp4
+videolevel_610F38FD_2500_6FD0_41AB_DF440ED4B92F.posterURL = media/video_1616FCDA_2463_DB0F_41B3_21205C87F418_poster_en.jpg
+videolevel_6104F949_2500_6E30_4167_671881E326B3.url = media/video_16DD2965_2465_FD05_41B5_9E0D65E044E2_en.mp4
+videolevel_6104F949_2500_6E30_4167_671881E326B3.posterURL = media/video_16DD2965_2465_FD05_41B5_9E0D65E044E2_poster_en.jpg
+videolevel_6138F967_2500_6EF0_41B1_D06DBFD6BA2C.url = media/video_16DD6AE6_2465_FF07_41B0_0491FF3D2018_en.mp4
+videolevel_6138F967_2500_6EF0_41B1_D06DBFD6BA2C.posterURL = media/video_16DD6AE6_2465_FF07_41B0_0491FF3D2018_poster_en.jpg
+videolevel_6136B9AF_2500_6E70_4188_FE0DC2C94E63.url = media/video_193268BD_2503_EE53_41B4_9EA5398E3094_en.mp4
+videolevel_6136B9AF_2500_6E70_4188_FE0DC2C94E63.posterURL = media/video_193268BD_2503_EE53_41B4_9EA5398E3094_poster_en.jpg
+videolevel_611138A8_2500_6E70_41A7_4F3A3E5F7FA5.url = media/video_1A8C3601_2500_6230_41B0_BD535D24F23F_en.mp4
+videolevel_611138A8_2500_6E70_41A7_4F3A3E5F7FA5.posterURL = media/video_1A8C3601_2500_6230_41B0_BD535D24F23F_poster_en.jpg
+videolevel_611EB86A_2500_6EF0_41B0_4EFE1C03C3C0.url = media/video_1AC19470_2465_2B1B_41B0_B20D2BC77F6E_en.mp4
+videolevel_611EB86A_2500_6EF0_41B0_4EFE1C03C3C0.posterURL = media/video_1AC19470_2465_2B1B_41B0_B20D2BC77F6E_poster_en.jpg
+videolevel_6113B88D_2500_6E30_41C0_FABA5FE9D221.url = media/video_1D54D7FD_2464_D505_419F_7B6DD748B179_en.mp4
+videolevel_6113B88D_2500_6E30_41C0_FABA5FE9D221.posterURL = media/video_1D54D7FD_2464_D505_419F_7B6DD748B179_poster_en.jpg
+videolevel_610A78E3_2500_6FF0_41BA_A988BB2961C8.url = media/video_44BC5E44_2177_D8E2_41AA_4962CBF20E68_en.mp4
+videolevel_610A78E3_2500_6FF0_41BA_A988BB2961C8.posterURL = media/video_44BC5E44_2177_D8E2_41AA_4962CBF20E68_poster_en.jpg
+videolevel_6133B98C_2500_6E30_41B5_1438BDBE9AF3.url = media/video_66FE053E_2465_3507_41B6_9744B4ED86EE_en.mp4
+videolevel_6133B98C_2500_6E30_41B5_1438BDBE9AF3.posterURL = media/video_66FE053E_2465_3507_41B6_9744B4ED86EE_poster_en.jpg
+videolevel_611478D0_2500_6FD0_4193_AC74FE6D4722.url = media/video_7F7AC4F6_1ED5_A9AE_419B_7F01AACD20E1_en.mp4
+videolevel_611478D0_2500_6FD0_4193_AC74FE6D4722.posterURL = media/video_7F7AC4F6_1ED5_A9AE_419B_7F01AACD20E1_poster_en.jpg
 
 ### Video Subtitles
-
-## Popup
-
-### Body
-htmlText_454E7D94_1F5D_5862_41B7_5051DC674801.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Accelerate innovation and stay ahead of the competition by adopting cutting-edge digital technologies in your organisation. <B>Digital transformation</B> can enhance efficiency, reduce costs, improve customer experience, and drive data-driven decision-making, giving your business a strategic advantage in an increasingly digital world.</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"> </SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">We can help you identify the right technologies for your business needs, develop bespoke digital solutions to streamline operations, and guide you through testing, training, and implementation. Our expertise also ensures enhanced cybersecurity and regulatory compliance, improved collaboration and agility through digital tools, and the ability to implement AI and automation for smarter workflows.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Work with Dr. Angel Jimenez-Aranda, Associate Professor for Digital Transformation, to integrate transformational digital technologies into your organisation and unlock new growth opportunities.</SPAN></DIV></BODY></HTML></div>
-htmlText_700C0E71_1F4D_B8A2_41A8_762233736E75.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Accelerate innovation and stay ahead of the competition by adopting cutting-edge digital technologies in your organisation. Digital transformation can enhance efficiency, reduce costs, improve customer experience, and drive data-driven decision-making, giving your business a strategic advantage in an increasingly digital world.</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"> </SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">We can help you identify the right technologies for your business needs, develop bespoke digital solutions to streamline operations, and guide you through testing, training, and implementation. Our expertise also ensures enhanced cybersecurity and regulatory compliance, improved collaboration and agility through digital tools, and the ability to implement AI and automation for smarter workflows.</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"> </SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Work with Dr. Angel Jimenez-Aranda, Associate Professor for Digital Transformation, to integrate transformational digital technologies into your organisation and unlock new growth opportunities.</SPAN></DIV></BODY></HTML></div>
-
-### Title
-window_454F3D94_1F5D_5862_41BB_551652C6AA01.title = DIGITAL TRANSFORMATION
-window_700F4E71_1F4D_B8A2_4198_7482BF234E5B.title = DIGITAL TRANSFORMATION
 
 ## Tour
 
 ### Description
 
 ### Title
-tour.name = Untitled 2
+tour.name = CSI VR v3
